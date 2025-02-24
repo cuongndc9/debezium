@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # debezium
 
 > Learning debezium by @103cuong
@@ -16,4 +17,3 @@
 - [Sync PostgreSQL with Elasticsearch via Debezium](https://github.com/YegorZaremba/sync-postgresql-with-elasticsearch-example)
 - [Debezium tutoral](https://debezium.io/documentation/reference/1.2/tutorial.html)
 - [Streaming Data Changes from Your Database to Elasticsearch](https://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/)
-
