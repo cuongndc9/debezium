@@ -29,3 +29,8 @@ docker run -it --rm --name mysqlterm --link mysql --rm mysql:5.7 sh -c 'exec mys
 ```sh
 docker run -it --rm --name connect -p 8083:8083 -e GROUP_ID=1 -e CONFIG_STORAGE_TOPIC=my_connect_configs -e OFFSET_STORAGE_TOPIC=my_connect_offsets -e STATUS_STORAGE_TOPIC=my_connect_statuses --link zookeeper:zookeeper --link kafka:kafka --link mysql:mysql debezium/connect:1.2
 ```
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+Stay curious. Keep learning. Keep growing.
+🦄
+<!-- INSPIRATIONAL_QUOTE_END -->
