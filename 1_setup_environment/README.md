@@ -31,6 +31,6 @@ docker run -it --rm --name connect -p 8083:8083 -e GROUP_ID=1 -e CONFIG_STORAGE_
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🦖
+Be a lifelong learner, not a know-it-all.
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
