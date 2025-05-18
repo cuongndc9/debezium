@@ -16,3 +16,8 @@
 - [Sync PostgreSQL with Elasticsearch via Debezium](https://github.com/YegorZaremba/sync-postgresql-with-elasticsearch-example)
 - [Debezium tutoral](https://debezium.io/documentation/reference/1.2/tutorial.html)
 - [Streaming Data Changes from Your Database to Elasticsearch](https://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/)
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+Be a lifelong learner, not a know-it-all.
+🦖
+<!-- INSPIRATIONAL_QUOTE_END -->

@@ -18,3 +18,8 @@ curl -X POST http://localhost:8083/connectors \
   -H 'Accept:application/json' \
   -d @configs/es.sink.json
 ```
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+Discomfort is the currency of your dreams.
+🧑‍💻
+<!-- INSPIRATIONAL_QUOTE_END -->

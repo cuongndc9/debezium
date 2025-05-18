@@ -11,3 +11,8 @@ curl -X POST http://localhost:8083/connectors \
   -H 'Accept:application/json' \
   -d @configs/neo4j.sink.json
 ```
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+The best way to predict the future is to create it.
+🐯
+<!-- INSPIRATIONAL_QUOTE_END -->
