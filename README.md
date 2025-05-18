@@ -18,6 +18,6 @@
 - [Streaming Data Changes from Your Database to Elasticsearch](https://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
+The best way to predict the future is to create it.
 🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
