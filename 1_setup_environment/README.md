@@ -33,5 +33,5 @@ docker run -it --rm --name connect -p 8083:8083 -e GROUP_ID=1 -e CONFIG_STORAGE_
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Action beats perfection.
-🦄
+🧑‍💻
 <!-- INSPIRATIONAL_QUOTE_END -->
