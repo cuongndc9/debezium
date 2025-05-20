@@ -149,6 +149,6 @@ curl http://localhost:9200/users/_search?q=id:6
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Stay curious. Keep learning. Keep growing.
-🦄
+Be a lifelong learner, not a know-it-all.
+🦖
 <!-- INSPIRATIONAL_QUOTE_END -->
