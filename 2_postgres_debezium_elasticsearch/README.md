@@ -150,5 +150,5 @@ curl http://localhost:9200/users/_search?q=id:6
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Stay curious. Keep learning. Keep growing.
-🐯
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->

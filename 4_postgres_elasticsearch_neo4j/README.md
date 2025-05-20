@@ -20,6 +20,6 @@ curl -X POST http://localhost:8083/connectors \
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
+The best way to predict the future is to create it.
 🐯
 <!-- INSPIRATIONAL_QUOTE_END -->
