@@ -18,6 +18,6 @@
 - [Streaming Data Changes from Your Database to Elasticsearch](https://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Be a lifelong learner, not a know-it-all.
+Action beats perfection.
 🐶
 <!-- INSPIRATIONAL_QUOTE_END -->
