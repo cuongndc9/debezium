@@ -13,6 +13,6 @@ curl -X POST http://localhost:8083/connectors \
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-🐶
+Be a lifelong learner, not a know-it-all.
+🐯
 <!-- INSPIRATIONAL_QUOTE_END -->
