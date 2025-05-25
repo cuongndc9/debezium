@@ -18,6 +18,6 @@
 - [Streaming Data Changes from Your Database to Elasticsearch](https://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-👻
+Stay curious. Keep learning. Keep growing.
+🦖
 <!-- INSPIRATIONAL_QUOTE_END -->
