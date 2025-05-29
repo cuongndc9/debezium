@@ -150,5 +150,5 @@ curl http://localhost:9200/users/_search?q=id:6
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 The best way to predict the future is to create it.
-🧑‍💻,
+🦖
 <!-- INSPIRATIONAL_QUOTE_END -->
