@@ -21,5 +21,5 @@ curl -X POST http://localhost:8083/connectors \
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Action beats perfection.
-👀,
+🦖
 <!-- INSPIRATIONAL_QUOTE_END -->
