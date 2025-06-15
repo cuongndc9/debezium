@@ -18,5 +18,5 @@
 - [Streaming Data Changes from Your Database to Elasticsearch](https://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-![Image](https://github.com/user-attachments/assets/0e3d9ba0-f624-4a99-8a33-88703033a2a1)
+> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
 <!-- INSPIRATIONAL_QUOTE_END -->
