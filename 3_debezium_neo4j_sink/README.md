@@ -13,5 +13,5 @@ curl -X POST http://localhost:8083/connectors \
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty." - Winston Churchill
+> "Life is what happens to you while you're busy making other plans." - John Lennon
 <!-- INSPIRATIONAL_QUOTE_END -->

@@ -32,5 +32,5 @@ docker run -it --rm --name connect -p 8083:8083 -e GROUP_ID=1 -e CONFIG_STORAGE_
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The only way to do great work is to love what you do." - Steve Jobs
+> "Don't let yesterday take up too much of today." - Will Rogers
 <!-- INSPIRATIONAL_QUOTE_END -->

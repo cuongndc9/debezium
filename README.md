@@ -18,5 +18,5 @@
 - [Streaming Data Changes from Your Database to Elasticsearch](https://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The only way to do great work is to love what you do." - Steve Jobs
+> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 <!-- INSPIRATIONAL_QUOTE_END -->
