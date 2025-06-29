@@ -18,5 +18,5 @@
 - [Streaming Data Changes from Your Database to Elasticsearch](https://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+> "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty." - Winston Churchill
 <!-- INSPIRATIONAL_QUOTE_END -->

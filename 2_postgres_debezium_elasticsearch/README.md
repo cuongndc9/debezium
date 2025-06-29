@@ -149,5 +149,5 @@ curl http://localhost:9200/users/_search?q=id:6
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Innovation distinguishes between a leader and a follower." - Steve Jobs
+> "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty." - Winston Churchill
 <!-- INSPIRATIONAL_QUOTE_END -->

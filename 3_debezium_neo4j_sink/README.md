@@ -13,5 +13,5 @@ curl -X POST http://localhost:8083/connectors \
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Life is what happens to you while you're busy making other plans." - John Lennon
+> "The way to get started is to quit talking and begin doing." - Walt Disney
 <!-- INSPIRATIONAL_QUOTE_END -->

@@ -20,5 +20,5 @@ curl -X POST http://localhost:8083/connectors \
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you." - Steve Jobs
+> "Don't let yesterday take up too much of today." - Will Rogers
 <!-- INSPIRATIONAL_QUOTE_END -->
