@@ -13,5 +13,5 @@ curl -X POST http://localhost:8083/connectors \
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The way to get started is to quit talking and begin doing." - Walt Disney
+> "We may encounter many defeats but we must not be defeated." - Maya Angelou
 <!-- INSPIRATIONAL_QUOTE_END -->
