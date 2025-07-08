@@ -149,5 +149,5 @@ curl http://localhost:9200/users/_search?q=id:6
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The only impossible journey is the one you never begin." - Tony Robbins
+> "A person who never made a mistake never tried anything new." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
