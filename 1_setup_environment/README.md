@@ -32,5 +32,5 @@ docker run -it --rm --name connect -p 8083:8083 -e GROUP_ID=1 -e CONFIG_STORAGE_
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Life is what happens to you while you're busy making other plans." - John Lennon
+> "Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino
 <!-- INSPIRATIONAL_QUOTE_END -->

@@ -149,5 +149,5 @@ curl http://localhost:9200/users/_search?q=id:6
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "A person who never made a mistake never tried anything new." - Albert Einstein
+> "Innovation distinguishes between a leader and a follower." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->

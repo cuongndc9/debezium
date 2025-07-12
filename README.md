@@ -18,5 +18,5 @@
 - [Streaming Data Changes from Your Database to Elasticsearch](https://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't let yesterday take up too much of today." - Will Rogers
+> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
 <!-- INSPIRATIONAL_QUOTE_END -->
